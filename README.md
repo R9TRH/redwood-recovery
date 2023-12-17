@@ -7,4 +7,6 @@ command: adb sideload (recovery-name).zip
 If you have TWRP/OFOX/etc. that can directly flash zips, just flash.
 
 # CREDITS
-All credits go to github.com/telexec/redwood
+Telexec for initial version & help 
+osm0sis for build scripts
+TheStrechh for full working TWRP & OFOX
