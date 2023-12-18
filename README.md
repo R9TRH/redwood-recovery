@@ -11,8 +11,8 @@ Download files from
 https://github.com/R9TRH/redwood-recovery/releases/latest
 
 # CREDITS
-Telexec for initial version & help 
+@Telexec for initial version & help 
 
-osm0sis for build scripts
+@osm0sis for build scripts
 
-TheStrechh for full working TWRP & OFOX
+@TheStrechh for full working TWRP & OFOX
