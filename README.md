@@ -1,5 +1,5 @@
 # redwood-recovery
-Recovery For AOSP ROMs
+Recovery For Poco X5 Pro AOSP ROMs
 # How to install
 If you have AOSP-based recovery (Los recovery, Arrow recovery etc.) just sideload. 
 command: adb sideload (recovery-name).zip
