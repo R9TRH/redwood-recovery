@@ -12,15 +12,16 @@ https://github.com/R9TRH/redwood-recovery/releases/latest
 
 # How to use (Important)
 1. Flash the ROM normally. Go to install, select your ROM.zip, and confirm. no need to change any option.
+IMPORTANT: Don't flash any zip after ROM. follow steps bellow and reboot recovery then flash zips like GApps, Magisk, etc.
 
 
-2. Go back to main page, Go to wipe, do format data, and wipe cache from advanced wipe. (For clean flashes only. If you are just updating, ignore this step)
+3. Go back to main page, Go to wipe, do format data, and wipe cache from advanced wipe. (For clean flashes only. If you are just updating, ignore this step)
 
 
-3. Go back to main page, Go to reboot section, and change active slot. If active slot was A, select B. Or if active slot was B, select A. There is an indicator there shows active slot.
+4. Go back to main page, Go to reboot section, and change active slot. If active slot was A, select B. Or if active slot was B, select A. There is an indicator there shows active slot.
 
 
-4. Go back to main page, go to Advanced, select "flash current TWRP". If you forget this step, you'll lose TWRP after reboot.
+5. Go back to main page, go to Advanced, select "flash current TWRP". If you forget this step, you'll lose TWRP after reboot.
 
 
 # CREDITS
